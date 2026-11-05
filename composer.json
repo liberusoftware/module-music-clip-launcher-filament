@@ -1,0 +1,23 @@
+{
+  "name": "liberusoftware/music-clip-launcher-filament",
+  "description": "Clip Launcher and Scenes Filament presentation module skeleton",
+  "type": "liberu-module",
+  "license": "MIT",
+  "require": {
+    "php": "^8.5",
+    "filament/filament": "^5.11"
+  },
+  "autoload": {
+    "psr-4": {
+      "Liberu\\Presentation\\Capability8b4676e2038b\\": "src/"
+    }
+  },
+  "scripts": {
+    "check": "@php -l src/CapabilityPlugin.php"
+  },
+  "extra": {
+    "liberu": {
+      "name": "music-clip-launcher-filament"
+    }
+  }
+}

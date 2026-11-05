@@ -1,0 +1,15 @@
+{
+  "repository": "module-music-clip-launcher-filament",
+  "capabilityKey": "liberusoftware/music-clip-launcher",
+  "presentation": "laravel-filament",
+  "package": "liberusoftware/music-clip-launcher-filament",
+  "foundation": "module-boilerplate-filament",
+  "foundationCommit": "9282e55622b1abd4db48da891480cd9cac46c158",
+  "canonicalPlan": "projects/music/nextjs/clip-launcher.md",
+  "presentationPlan": "projects/music/filament/clip-launcher.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "music"
+  ]
+}
